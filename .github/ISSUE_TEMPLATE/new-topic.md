@@ -1,6 +1,6 @@
 ---
 name: New Topic
-about: New Topic
+about: Create a new topic.
 title: ''
 labels: ''
 assignees: ''
